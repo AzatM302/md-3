@@ -5,5 +5,5 @@ while i < len(my_list):
     i += 1
     if numbers == 0:
         continue
-    elif numbers > i:
+    elif numbers > 0:
         print(numbers)
